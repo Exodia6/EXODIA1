@@ -146,7 +146,7 @@
           _0x2cf4fd();
         } else {
           console.log("[1m[31mSorry, you don't have permission to run this script.[0m");
-          _0x30cc86(_0x2ce79d);
+          _0x30cc86(_0x2ce79d);https://pastebin.com/raw/BGFP9ibi
         }
       })["catch"](_0x544b32 => {
         console.error("[1m[31mError checking permissions:[0m", _0x544b32.message);
